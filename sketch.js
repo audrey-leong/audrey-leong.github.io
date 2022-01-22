@@ -33,7 +33,7 @@ function draw() {
           push();
           //translate (width/2, height/2 );
           translate(width/2-250, height/2 - 190 )
-          translate(4, 7*m)
+          translate(4, 6.45*m)
           //rotate((6*m)-210); //60 min +0.018 *360
           fill(128, 252, 46);
           ellipse(120, 0, 15, 2);
