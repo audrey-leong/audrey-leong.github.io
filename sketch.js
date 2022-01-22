@@ -49,7 +49,7 @@ function draw() {
           //rotate((-6*s)); //60 lines
           //stroke(132, 4, 16);
           stroke("FFFFFF")
-          strokeWeight(s/8);
+          strokeWeight(0.3 + (s/7));
           blendMode(LIGHTEST);
           line(550,500,20,0);
           pop();
